@@ -98,12 +98,11 @@ The project focuses on ensuring secure and scalable backend operations using **P
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact
+## Project developed by:
 
-For any inquiries or suggestions, please contact:
-- Your Name - [your.email@example.com](mailto:your.email@example.com)
-- GitHub: [https://github.com/yourusername](https://github.com/yourusername)
+Rakim Middya
+Cecily Ambooken
+Rishab Bohra
+Veerathu Sri Sindhu
 
----
 
-This `README` covers all the essential information about the project, including installation, usage, backend details, and potential future improvements. You can modify it to suit your style or add more specifics based on your preferences.
