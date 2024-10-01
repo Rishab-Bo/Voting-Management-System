@@ -101,8 +101,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Project developed by:
 
 Rakim Middya
+
 Cecily Ambooken
+
 Rishab Bohra
+
 Veerathu Sri Sindhu
 
 
