@@ -35,11 +35,11 @@ The project focuses on ensuring secure and scalable backend operations using **P
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/online-voting-system.git
+    git clone https://github.com/Rishab-Bo/Voting-Management-System.git
     ```
 2. **Navigate to the project directory**:
     ```bash
-    cd online-voting-system
+    cd Voting-Management-System
     ```
 
 3. **Database setup**:
@@ -62,7 +62,7 @@ The project focuses on ensuring secure and scalable backend operations using **P
 
 5. **Run the application**:
     - Place the project files into your web server's root directory.
-    - Open your browser and navigate to `http://localhost/online-voting-system` to start the system.
+    - Open your browser and navigate to `http://localhost/Voting-Management-System` to start the system.
 
 ## Usage
 
