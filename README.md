@@ -94,9 +94,6 @@ The project focuses on ensuring secure and scalable backend operations using **P
 - **Multi-Language Support**: Expanding the platform to support multiple languages for broader accessibility.
 - **Role-Based Access Control**: More granular permissions for different admin roles (e.g., election supervisor, candidate manager).
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Project developed by:
 
