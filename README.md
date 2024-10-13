@@ -74,11 +74,6 @@ The project focuses on ensuring secure and scalable backend operations using **P
     - Voters must log in to view and vote for available positions.
     - Secure session management ensures only authenticated users can cast votes.
 
-## Screenshots
-
-1. **Admin Dashboard**: Manage elections, candidates, and positions.
-2. **Voter Dashboard**: View available elections and cast votes securely.
-
 ## Technologies Used
 
 - **PHP**: Backend logic and session handling.
